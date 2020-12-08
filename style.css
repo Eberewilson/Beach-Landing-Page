@@ -43,6 +43,8 @@ body{
 	margin-top: 20px;
 }
 
+#showcase .button:hover{ background-color: #05668e; }
+
 #section-a{
 	padding: 20px;
 	background: #05668e;
